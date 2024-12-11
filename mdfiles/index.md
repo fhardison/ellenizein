@@ -15,5 +15,7 @@ Click [here](https://discord.gg/ejSSfm4N) or scan this QR code:
   <img src="discord_code.png" style="width 5%; height:5%;margin-left: 25%;"></img>
 </div>
 
+## Other resources and groups
 
+- [Agora - Ancient Greek Study Forum](https://discord.gg/3atzxF3s)
 
